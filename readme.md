@@ -50,4 +50,4 @@ Before running this project, make sure you have Python installed on your system.
 If you would like to contribute to this project, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [License](https://github.com/demismeneghetti/qr_code_generator/blob/master/LICENSE) file for details.
